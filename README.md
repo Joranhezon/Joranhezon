@@ -11,17 +11,17 @@
 ## About me
 I'm a proud transgender woman who happens to be a software engineer!
 
-## I'm currently working on
-- Junior Software Engineer at Bxblue;
-- Mentor at BOSS(Big Open Source Sister), a program whose goal is to ensure more women, and eventually other minorities, engage in open Source communities;
-- Article about the trans perspective in Software Engineering;
-- Aaaaalmost finishing getting my Software Engineering Degree.
-
 ## I'm looking to contribute to
 - Projects focused on trans rights, on technology or wherever;
 - Projects focused on feminist causes, on technology or wherever;
-- Projects related to animal causes.
+- Projects related to animal causes.\n
 <b>If you know about any, please, contact me!</b>
+
+## I'm currently working on
+- Junior Software Engineer at Bxblue;
+- Mentor at BOSS(Big Open Source Sister), a program whose goal is to ensure more women, and eventually other minorities, engage in open source communities;
+- Article about the trans perspective in Software Engineering;
+- Aaaaalmost finishing getting my Software Engineering Degree.
 
 ## I'm currently learning
 - Ruby;
