@@ -14,8 +14,8 @@ I'm a proud transgender woman who happens to be a software engineer!
 ## I'm looking to contribute to
 - Projects focused on trans rights, on technology or wherever;
 - Projects focused on feminist causes, on technology or wherever;
-- Projects related to animal causes.\n
-<b>If you know about any, please, contact me!</b>
+- Projects related to animal causes.
+- <b>If you know about any, please, contact me!</b>
 
 ## I'm currently working on
 - Junior Software Engineer at Bxblue;
