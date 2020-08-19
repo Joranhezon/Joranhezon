@@ -1,6 +1,6 @@
-## Oh my God, you look just like Shakira
+### Oh my God, you look just like Shakira
 ## No, no, you're Catherine Zeta!
-### Actually, my name is Marina
+# Actually, my name is Marina
 
 <img align='right' alt="Collaboration" src="https://thumbs.gfycat.com/SpottedSmugBronco-max-1mb.gif" width="320"/>
 
