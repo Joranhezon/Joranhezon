@@ -24,6 +24,4 @@ I'm a proud transgender woman, who happens to be a software engineer!
 - Rasa;
 - Rasa Boilerplate;
 
-## Contact me at
 [![GitHub Marina Joranhezon](https://img.shields.io/github/followers/joranhezon?label=follow&style=social)](https://github.com/joranhezon)
-[![Twitter: Marina Joranhezon](https://img.shields.io/twitter/follow/normaldacandina?style=social)](https://twitter.com/normaldacandina)
