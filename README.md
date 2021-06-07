@@ -14,13 +14,12 @@ I'm a proud transgender woman, who happens to be a software engineer!
 - <b>If you know about any, please, contact me!</b>
 
 ## I'm currently working on
-- Junior Software Engineer at Bxblue;
+- Software Engineer at Picpay;
 - Mentor at [BOSS](https://github.com/BOSS-BigOpenSourceSibling)(Big Open Source Sibiling), a program whose goal is to engage subrepresented groups in open source communities;
 - A paper about Trans Perspective in Software Engineering;
-- Aaaaalmost getting my Software Engineering Degree.
 
 ## I'm currently learning
-- Ruby;
+- Python3;
 - Rasa;
 - Rasa Boilerplate;
 
