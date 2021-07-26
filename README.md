@@ -1,4 +1,4 @@
-# Marina, Travesti, Software Engineer, in this specific order
+# Marina, Trans Woman, Software Engineer
 
 <img align='right' alt="Collaboration" src="https://thumbs.gfycat.com/SpottedSmugBronco-max-1mb.gif" width="320"/>
 
@@ -19,8 +19,7 @@ I'm a proud transgender woman, who happens to be a software engineer!
 - A paper about Trans Perspective in Software Engineering;
 
 ## I'm currently learning
-- Python3;
-- Rasa;
-- Rasa Boilerplate;
+- Kafka;
+- Kubernetes;
 
 [![GitHub Marina Joranhezon](https://img.shields.io/github/followers/joranhezon?label=follow&style=social)](https://github.com/joranhezon)
